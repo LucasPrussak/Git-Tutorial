@@ -1,0 +1,15 @@
+Basic Git commands
+inside a folder, right click the mouse and select “Git Bash Here”
+git init ( It start the git in the folder )
+
+git status ( It shows track, untrack files, comits)
+
+git add “FileExemple.txt” ( It start tracking an specific file)
+git add . (track all files in the folder)
+
+git commit -m “describe your changes in the file” (commit only save changes on your machine)
+git remote add origin /repository url/ (It connect your local repo to a github repo)
+
+git push (It send the changes to your github repository)
+but, you need to specify the breanch (temporal line)
+git push —set-upstream origin master (this will push to the main breanch)
