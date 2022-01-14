@@ -1,6 +1,6 @@
 # Git-Commands 
 A list with basic Git commands, so I have a fast way to remember how to do a specific thing
-
+<br><br>
 ## To set git on your machine
 
 inside a folder, right click the mouse and select “Git Bash Here”
@@ -26,7 +26,7 @@ but, you need to specify the branch (temporal line)
 `git reflog` It shows all the commits done to that file, It shows all versions of your file
 
 `git reset —hard /yellow id/` Here is were you can time travel, It change the file to a specific commit
-
+<br><br>
 ## Branches
 
 `git branch` It shows all branchs, the green one is the branch you currently working on
@@ -34,7 +34,7 @@ but, you need to specify the branch (temporal line)
 `git branch /branchName/` It creates a new branch
 
 `git checkout /branchName/` changes wich branch will recive the commits
-
+<br><br>
 ## Merge
 
 `git checkout /branchName/` first, you need to set as main the branch you want to pull the modifications
